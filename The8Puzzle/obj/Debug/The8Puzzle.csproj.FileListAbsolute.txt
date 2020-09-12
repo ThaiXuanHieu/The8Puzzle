@@ -1,0 +1,12 @@
+F:\Game\The8Puzzle\The8Puzzle\bin\Debug\The8Puzzle.exe.config
+F:\Game\The8Puzzle\The8Puzzle\bin\Debug\The8Puzzle.exe
+F:\Game\The8Puzzle\The8Puzzle\bin\Debug\The8Puzzle.pdb
+F:\Game\The8Puzzle\The8Puzzle\bin\Debug\Bunifu_UI_v1.52.dll
+F:\Game\The8Puzzle\The8Puzzle\obj\Debug\The8Puzzle.csprojAssemblyReference.cache
+F:\Game\The8Puzzle\The8Puzzle\obj\Debug\The8Puzzle.frmGame.resources
+F:\Game\The8Puzzle\The8Puzzle\obj\Debug\The8Puzzle.Properties.Resources.resources
+F:\Game\The8Puzzle\The8Puzzle\obj\Debug\The8Puzzle.csproj.GenerateResource.cache
+F:\Game\The8Puzzle\The8Puzzle\obj\Debug\The8Puzzle.csproj.CoreCompileInputs.cache
+F:\Game\The8Puzzle\The8Puzzle\obj\Debug\The8Puzzle.csproj.CopyComplete
+F:\Game\The8Puzzle\The8Puzzle\obj\Debug\The8Puzzle.exe
+F:\Game\The8Puzzle\The8Puzzle\obj\Debug\The8Puzzle.pdb
